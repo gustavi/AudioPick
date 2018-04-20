@@ -6,7 +6,7 @@
 	"author": "necropola@rain-fighters.net",
 	"homepage_url": "https://rain-fighters.github.io/AudioPick/",
 	"version": "0.2.3",
-	"version_name": "0.2.3",
+	"version_name": "0.2.3-fork",
 	"minimum_chrome_version": "50.0",
 	"browser_action": {
 		"default_icon": {
